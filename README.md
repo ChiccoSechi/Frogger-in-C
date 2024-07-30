@@ -2,6 +2,13 @@
 # Frogger vs Plants in C 
 ## University of Cagliari - Applied Computer Science and Data Analytics course - Operating Sistem Exam
 
+## Index
+- [Introduction](#introduction)
+- [Linux Version](#linux-version)
+- [Makefile](#makefile)
+- [Rules of the Game](#rules-of-the-game)
+- [Score](#score)
+
 ### Introduction
 Creation of the **Frogger vs Plants** game, based on the famous *[Frogger](https://en.wikipedia.org/wiki/Frogger)* game.
 Made using the C proramming language, there are two version: processes and threads.
